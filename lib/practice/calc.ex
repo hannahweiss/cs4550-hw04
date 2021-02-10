@@ -1,6 +1,7 @@
 defmodule Practice.Calc do
 
   # TODO: deal with invalid input
+  # TODO: add comments
 
   # Attribution for is_numeric function: https://rosettacode.org/wiki/Determine_if_a_string_is_numeric#Elixir
   def is_numeric(text) do
