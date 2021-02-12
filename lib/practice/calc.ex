@@ -73,6 +73,7 @@ defmodule Practice.Calc do
               infix_to_postfix(token_list, tl(operation_stack), [hd(operation_stack)] ++ expression_stack)
             end
           end
+          false -> [false]
       end
 
     end
@@ -95,6 +96,7 @@ defmodule Practice.Calc do
             "*" -> postfix_eval(tl(token_list), [(b * a)] ++ final)
             "/" -> postfix_eval(tl(token_list), [(b / a)] ++ final)
           end
+        false -> ["invalid input"]
       end
     end
   end
