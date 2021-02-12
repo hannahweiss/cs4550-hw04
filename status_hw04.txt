@@ -22,7 +22,7 @@ I was able to successfully deploy.
 
 
 6. How comfortable do you feel with Elixir now?
-7/10
+5/10
 
 
 7. Which parts of this assignment did you have trouble with, if any?
