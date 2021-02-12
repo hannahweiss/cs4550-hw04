@@ -1,0 +1,42 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Hannah Weiss
+
+
+2. What hostname did you deploy your app to?
+hw04.hweisswebdev.com
+
+
+3. What's the URL of your git for this assignment?
+https://github.com/hannahweiss/cs4550-hw04
+
+
+4. How much of the functionality did you complete?
+I was able to complete all of the functionality.
+
+
+5. Did you successfully deploy? If not, what's broken?
+I was able to successfully deploy.
+
+
+6. How comfortable do you feel with Elixir now?
+7/10
+
+
+7. Which parts of this assignment did you have trouble with, if any?
+I had trouble figuring out the calculator, especially dealing with invalid input. I also had trouble getting the deploy right and installing all the dependencies in my linux environment. 
+
+
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
